@@ -1,0 +1,11 @@
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_03\bin\Debug\C20_Ex01_03.exe.config
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_03\bin\Debug\C20_Ex01_03.exe
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_03\bin\Debug\C20_Ex01_03.pdb
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_03\bin\Debug\C20_Ex01_02.exe
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_03\bin\Debug\C20_Ex01_02.pdb
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_03\bin\Debug\C20_Ex01_02.exe.config
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_03\obj\Debug\C20_Ex01_03.csprojAssemblyReference.cache
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_03\obj\Debug\C20_Ex01_03.csproj.CoreCompileInputs.cache
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_03\obj\Debug\C20_Ex01_03.csproj.CopyComplete
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_03\obj\Debug\C20_Ex01_03.exe
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_03\obj\Debug\C20_Ex01_03.pdb

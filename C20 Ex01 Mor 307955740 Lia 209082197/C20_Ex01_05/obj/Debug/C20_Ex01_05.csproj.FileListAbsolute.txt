@@ -1,0 +1,7 @@
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_05\bin\Debug\C20_Ex01_05.exe.config
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_05\bin\Debug\C20_Ex01_05.exe
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_05\bin\Debug\C20_Ex01_05.pdb
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_05\obj\Debug\C20_Ex01_05.csprojAssemblyReference.cache
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_05\obj\Debug\C20_Ex01_05.csproj.CoreCompileInputs.cache
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_05\obj\Debug\C20_Ex01_05.exe
+C:\Users\morbl\source\repos\C20 Ex01 Mor 307955740 Lia 209082197\C20_Ex01_05\obj\Debug\C20_Ex01_05.pdb
